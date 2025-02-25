@@ -7,7 +7,7 @@ TextLockAndDropIt is a simple Windows utility that allows users to enter multipl
 ### **1. Clone the repository**
 Open a terminal or command prompt and run:
 ```sh
- git clone [https://github.com/your-repo.git](https://github.com/raw-wheat-code/text-lock-and-drop-it.git)
+ git clone https://github.com/raw-wheat-code/text-lock-and-drop-it.git
 ```
 
 ### **2. Navigate to the project folder**
