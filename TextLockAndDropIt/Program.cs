@@ -53,11 +53,11 @@ namespace TextLockAndDropIt
         public MainForm()
         {
             this.Text = "TextLockAndDropIt";
-            this.Size = new System.Drawing.Size(400, 300);
+            this.Size = new System.Drawing.Size(350, 740);
             this.TopMost = true;
             _instance = this;
 
-            int numberOfFields = 5;
+            int numberOfFields = 16;
             textBoxes = new TextBox[numberOfFields];
 
             for (int i = 0; i < numberOfFields; i++)
